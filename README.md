@@ -1,6 +1,4 @@
-
 # ctf-burp-macros
-![IMAGE](./assets/anand.png)
 Some labs to help you learn about BURP Suite Macros.
 
 # How to run
@@ -31,3 +29,4 @@ http://localhost/init.php
 
 http://localhost/
 ```
+![IMAGE](./assets/anand.png)
