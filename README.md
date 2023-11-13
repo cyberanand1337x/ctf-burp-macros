@@ -10,8 +10,7 @@ sudo apt install docker.io
 
 sudo apt install docker-compose
 
-git clone https://github.com/AppSecExplained/ctf-burp-macros.git
-
+git clone https://github.com/cyberanand1337x/ctf-burp-macros.git
 cd ctf-burp-macros
 
 sudo docker-compose up
